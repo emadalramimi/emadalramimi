@@ -4,7 +4,7 @@ I'm Emad Al Ramimi, a Computer Science student deeply passionate about technolog
 
 ---
 
-<div align="center">
+<div align="left">
   <h3>About Me</h3>
   <ul>
     <li>:telescope: Currently immersed in the world of Application Development, exploring everything from Web Development to Embedded Systems and IoT.</li>
@@ -53,15 +53,15 @@ Consider supporting my projects with a star ⭐. Your support fuels my creativit
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/css3-icon.svg" width="65" height="65" />
-      <br>CSS3
+      <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="65" height="65" />
+      <br>Raspberry
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/php-icon.svg" width="65" height="65" />
+      <img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" width="65" height="65" />
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" />
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96">
@@ -73,22 +73,33 @@ Consider supporting my projects with a star ⭐. Your support fuels my creativit
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65" />
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="65" height="65" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/azure-icon.svg" width="65" height="65" />
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="65" height="65" />
       <br>Azure
     </td>
   </tr>
 </table>
 
-<img align="right" width="48%"  src="https://github-readme-stats.vercel.app/api?username=emadalramimi&show_icons=true&theme=tokyonight&layout=compact" />
 </p>
 
-<br><br><br><br><br><br><br><br><br>
+## Top Open Source -
+
+[![Products API](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=products_api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/products_api)
+[![Medical Clinic Management Website](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=Medical-Clinic-Management-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/Medical-Clinic-Management-Website)
+[![Takuzu Solver](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=Takuzu_solver&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/Takuzu_solver)
+[![Message Encryption](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=Message-Encryption&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/Message-Encryption)
+
+
+
+<p align="left">
+  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
 <p align="center">
-  <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" />
+  <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=emadalramimi&theme=tokyonight" />
 </p>
 
 ## Recent Projects
@@ -110,8 +121,6 @@ Feel free to reach out to me for collaborations or just to connect. I'm always o
 - **Email**: [alramimi10@gmail.com](mailto:alramimi10@gmail.com)
 - **LinkedIn**: [Emad Al Ramimi](https://www.linkedin.com/in/emad-al-ramimi/)
 
-Thank you for visiting my profile. Let's innovate and create something amazing together!
+Thank you for visiting my profile. Let's innovate and create something amazing together! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/1a/b4/e6/1ab4e6a7041358d80dd6809fd4b97395.gif" width="100">
-</div>
+
