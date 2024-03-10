@@ -9,7 +9,7 @@ I'm Emad Al Ramimi, a Computer Science student deeply passionate about technolog
   <ul>
     <li>:telescope: Currently immersed in the world of Application Development, exploring everything from Web Development to Embedded Systems and IoT.</li>
     <li>:seedling: Eager Learner: My academic and project experiences span diverse programming languages and technologies, including Java, Python, C, C++, C#, JavaScript, and more.</li>
-    <li>:earth_americas: I'm all about connecting with like-minded individuals and communities, sharing knowledge, and collaborating on open source projects. I'm driven by the thrill of problem-solving and the satisfaction of turning ideas into reality.</li>
+    <li>:earth_americas: I'm all about connecting with like-minded individuals and communities, sharing knowledge, and collaborating on open-source projects. I'm driven by the thrill of problem-solving and the satisfaction of turning ideas into reality.</li>
     <li>:mailbox_with_mail: Reach out to me via <a href="mailto:alramimi10@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/emad-alramimi/">LinkedIn</a>.</li>
   </ul>
 </div>
@@ -86,12 +86,10 @@ Consider supporting my projects with a star ⭐. Your support fuels my creativit
 </p>
 
 ## Top Open Source -
-
-[![Products API](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=products_api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/products_api)
-[![Medical Clinic Management Website](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=Medical-Clinic-Management-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/Medical-Clinic-Management-Website)
 [![Takuzu Solver](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=Takuzu_solver&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/Takuzu_solver)
 [![Message Encryption](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=Message-Encryption&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/Message-Encryption)
-
+[![Products API](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=products_api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/products_api)
+[![Medical Clinic Management Website](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=Medical-Clinic-Management-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/Medical-Clinic-Management-Website)
 
 
 <p align="left">
