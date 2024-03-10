@@ -117,7 +117,7 @@ Consider supporting my projects with a star ⭐. Your support fuels my creativit
 Feel free to reach out to me for collaborations or just to connect. I'm always open to discussing new projects or tech trends.
 
 - **Email**: [alramimi10@gmail.com](mailto:alramimi10@gmail.com)
-- **LinkedIn**: [Emad Al Ramimi](https://www.linkedin.com/in/emad-al-ramimi/)
+- **LinkedIn**: [Emad Al Ramimi](https://www.linkedin.com/in/emad-alramimi/)
 
 Thank you for visiting my profile. Let's innovate and create something amazing together! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
