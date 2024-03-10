@@ -101,11 +101,11 @@ Consider supporting my projects with a star ⭐. Your support fuels my creativit
 </p>
 
 ## Recent Projects
-- **Chat Website**: An interactive platform using HTML, CSS, and JavaScript. (Dec 2023)
-- **Medical Clinic Website**: A comprehensive system for clinic management in HTML, CSS, PHP, and JavaScript. (Dec 2023)
-- **E-sporter Application**: A Java application with JUnit testing. (Nov 2023)
-- **Portfolio Website**: Showcasing my work and projects in HTML, CSS, PHP, and JavaScript. (Jul 2023)
-- **E-commerce Application**: Developed in Java and tested with JUnit. (May 2023)
+- **Chat Website**: An interactive platform using HTML, CSS, and JavaScript.
+- **Medical Clinic Website**: A comprehensive system for clinic management in HTML, CSS, PHP, and JavaScript.
+- **E-sporter Application**: A Java application with JUnit testing.
+- **Portfolio Website**: Showcasing my work and projects in HTML, CSS, PHP, and JavaScript. 
+- **E-commerce Application**: Developed in Java and tested with JUnit.
 
 ## Achievements
 - **ROWAD HACKATHON 2023**: Participated in this entrepreneurship challenge in Doha, Qatar, presenting the Furat Project focused on Biosolutions and AI. (2023)
