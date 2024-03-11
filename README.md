@@ -86,7 +86,7 @@ Consider supporting my projects with a star ⭐. Your support fuels my creativit
 </p>
 
 ## Top Open Source -
-[![Takuzu Solver](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=Takuzu_solver&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/Takuzu_solver)
+[![E-Sporter Management System](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=E-Sporter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/E-Sporter)
 [![Message Encryption](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=Message-Encryption&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/Message-Encryption)
 [![Dijkstra Bellman Ford Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=Dijkstra-Bellman-Ford-algorithms&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/Dijkstra-Bellman-Ford-algorithms)
 [![Medical Clinic Management Website](https://github-readme-stats.vercel.app/api/pin/?username=emadalramimi&repo=Medical-Clinic-Management-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/emadalramimi/Medical-Clinic-Management-Website)
